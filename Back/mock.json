@@ -1,0 +1,22 @@
+[
+  {
+    "id": "a942036a-dabe-4074-a1e5-fd3ce5edf145",
+    "name": "quantique",
+    "short_description": "souvent utilisé de manière incorrecte pour désigner des pratiques ésotériques",
+    "description": "La mécanique quantique est une branche de la physique théorique qui est née au XXe siècle. Elle a pour objet d'étude les phénomènes à l'échelle atomique et subatomique, où les concepts classiques de la physique ne s'appliquent plus. Elle a donné naissance à de nombreux concepts étranges, comme la superposition, l'intrication quantique, le principe d'incertitude, le déterminisme probabiliste, le chat de Schrödinger, etc. Elle est à la base de nombreuses technologies modernes, comme les lasers, les transistors, les ordinateurs quantiques, etc. Elle est également à la base de nombreuses interprétations philosophiques, comme le réalisme quantique, le panpsychisme, le monisme, etc. Cependant, elle est souvent utilisée de manière incorrecte pour désigner des pratiques ésotériques, comme la médecine quantique, la psychologie quantique, la spiritualité quantique, etc.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://fr.wikipedia.org/wiki/M%C3%A9canique_quantique"
+    }
+  },
+  {
+    "id": "a942036a-dabe-4074-a1e5-zz3ce5edf145",
+    "name": "biodynamique",
+    "short_description": "méthode de culture agricole ésotérique et pseudoscientifique",
+    "description": "La biodynamie est une méthode de culture agricole ésotérique et pseudoscientifique, basée sur les enseignements de Rudolf Steiner. Elle est souvent associée à l'agriculture biologique, mais elle s'en distingue par ses pratiques ésotériques, comme les préparations biodynamiques, les rythmes cosmiques, les influences astrales, etc. Elle est critiquée pour son manque de fondement scientifique et pour ses liens avec l'anthroposophie, une doctrine ésotérique fondée par Rudolf Steiner. Elle est également critiquée pour ses prétentions thérapeutiques et pour ses effets néfastes sur l'environnement.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://fr.wikipedia.org/wiki/Biodynamie"
+    }
+  }
+]
